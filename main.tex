@@ -1,0 +1,339 @@
+% !TEX encoding = UTF-8 Unicode
+% This template was initially provided by Dulip Withanage.
+% Modifications for the database systems research group
+% were made by Conny Junghans and Jannik Strötgen.
+
+% typesetting with XeLaTex-bibtex-XeLaTex-XeLaTex to produce bibliography
+% change to arara if need generate with bibtex
+% !TEX TS-program = arara
+% arara: xelatex
+% arara: bibtex
+% arara: xelatex
+% arara: makeglossaries
+% arara: xelatex
+\documentclass[
+     12pt,         % font size
+     a4paper,      % paper format
+     BCOR10mm,     % binding correction
+     DIV14,        % stripe size for margin calculation
+     listof=totoc,   % table listing in toc
+     bibliography=totoc,     % bibliography in toc
+     index=totoc,     % index in toc
+%     ngerman,     
+%     parskip      % paragraph skip instad of paragraph indent
+     ]{scrreprt}   % scrreprt for europe style with german
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% PACKAGES:
+\usepackage{paralist} % in line list
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{threeparttable}  % include footnote for table
+\usepackage{booktabs}
+% Use German :
+\usepackage{lmodern}
+\usepackage[ngerman, USenglish]{babel}
+%% use Minion pro when use xetex
+%\usepackage[MnSymbol]{mathspec}
+%\usepackage{xltxtra}
+%\usepackage{xunicode}
+%\defaultfontfeatures{Scale=MatchLowercase}
+%\setprimaryfont{Minion Pro}
+%\setmainfont[Mapping=tex-text]{Minion Pro}
+%\setsansfont[Mapping=tex-text]{Myriad Pro}
+%\setmonofont{Courier}
+%\setmathsfont[Set=Greek,Uppercase=Italic,Lowercase=Italic]{Minion Pro}
+% Input encoding
+\usepackage[utf8]{inputenc}
+% Font encoding
+\usepackage[T1]{fontenc}
+% Index-generation
+\usepackage{makeidx}
+% Einbinden von URLs:
+\usepackage{url}
+% Special \LaTex symbols (e.g. \BibTeX):
+\usepackage{doc}
+% Include Graphic-files:
+\usepackage{graphicx}       
+\usepackage{caption}
+\usepackage{subcaption}		% handles subfigures
+
+% caption at side
+\usepackage[innercaption]{sidecap}
+\sidecaptionvpos{figure}{t}
+
+\usepackage{grffile} % fix special character in image file name for graphicx
+% Include doc++ generated tex-files:
+%\usepackage{docxx}
+% Include PDF links
+%\usepackage[pdftex, bookmarks=true]{hyperref}
+
+% Generate red heart in text, seems cause bold face font in mathmode, not good.
+%\usepackage[origletters,vara,varf,varGamma,varPi]{arevmath}
+%\usepackage{xcolor}
+% Fuer anderthalbzeiligen Textsatz
+\usepackage{setspace}
+\usepackage{color, soul} % for highlighting text
+\usepackage{calc} % for box around tex by \fbox
+% hyperrefs in the documents
+% hypertexnames = true for proper page number links for glossary
+\usepackage[bookmarks=true,colorlinks,pdfpagelabels,pdfstartview = FitH,bookmarksopen = true,bookmarksnumbered = true,linkcolor = blue,plainpages = false,hypertexnames = true,citecolor = blue, urlcolor=blue, unicode, pdfencoding=auto]{hyperref}
+\hypersetup{ 
+pdfinfo={
+Title={CYS PhD Thesis},
+Subject={PPP2R5C in mouse}, 
+NewKey={PPP2R5C},
+% ...
+}}
+
+\usepackage{textgreek}  % include greek in textmode in list of figures
+\usepackage{longtable}  % multiple page tables
+\usepackage{bm}
+\usepackage{gensymb} % degree symbol
+\usepackage[capitalise,noabbrev]{cleveref} % multiple references
+\usepackage[toc, acronym]{glossaries} % for glossary
+% load the cleveref package last, after hyperref.
+%\usepackage{afterpage} % better clearpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage[maxfloats=25]{morefloats} % for more floats, figures
+% OTHER SETTINGS:
+\usepackage{array} % for centering content with defined width in table
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}} % P instead of p in P{.5/textwidth}
+
+% bibliography
+\usepackage[hyperref=true,
+            url=false,
+            isbn=false,
+            backref=true,
+            style=numeric,
+            citereset=chapter,
+            maxcitenames=10,
+            maxbibnames=100,
+            block=none,
+            sorting=none,
+            backend=bibtex8]{biblatex} % better url citation
+\usepackage{csquotes}
+
+% disable ligatures
+%\usepackage{microtype}
+%\DisableLigatures{encoding=*, family=*}
+
+% set paragraph{} as new level of sectioning
+\setcounter{secnumdepth}{3} 
+% renew paragraph to have newline before text
+\makeatletter
+\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+  {-3.25ex\@plus -1ex \@minus -.2ex}%
+  {1.5ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries}}
+\makeatother
+
+% Pagestyle:
+\pagestyle{headings}
+\setlength\parindent{0pt}
+\setlength{\parskip}{0.8em}
+% Choose language
+\newcommand{\setlang}[1]{\selectlanguage{#1}\nonfrenchspacing}
+
+% signature line
+\newcommand{\sign}[1]{%      
+  \begin{tabular}[t]{@{}l@{}}
+  \makebox[2in]{\hrulefill}\\
+  \strut#1\strut
+  \end{tabular}%
+}
+
+% blank page
+\newcommand{\blankpage}{
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\addtocounter{page}{-1}%
+\newpage
+}
+
+
+%Load Glossarys and Acronyms
+\makeglossaries
+
+%Glossary-File
+\input{chapter/glossary}
+%Acronyms
+%\include{acronym}
+
+\addbibresource{bib/PhD_thesis.bib} % when use biblatex
+
+\begin{document}
+
+% TITLE:
+ 
+\begin{titlepage}
+
+\thispagestyle{empty}
+
+\vspace*{5cm} % not deleted at begining of page
+
+\begin{center}
+
+\begin{minipage}{0.8\textwidth}\centering
+
+{\large \textbf{Phosphatase PPP2R5C Couples Hepatic\\
+\vspace{0.5cm}
+Glucose and Lipid Homeostasis}\\
+\vspace{2cm}
+Yong-Sheng Cheng
+}
+\end{minipage}
+
+\end{center}
+
+\blankpage
+\thispagestyle{empty}
+
+\vspace*{1cm}
+\begin{center}
+\vspace*{3cm} 
+\textbf{\Large{Dissertation}}\\
+\vspace*{1cm}
+\large{
+submitted to the\\
+Combined Faculties for the Natural Sciences and for Mathematics\\
+of the Ruperto-Carola University of Heidelberg, Germany\\
+for the degree of\\
+Doctor of Natural Sciences\\
+
+
+\vfill 
+presented by\\
+}
+
+\vspace*{1cm}
+
+{\large
+\begin{tabular}[l]{ll}
+Name: & MSc. Yong-Sheng Cheng\\
+Born in: & Anhui, China\\
+Oral-examination: & \today
+\end{tabular}
+}
+
+\end{center}
+\blankpage
+\thispagestyle{empty}
+
+\vspace*{5cm}
+
+\begin{center}
+\vspace{0.5\baselineskip}
+{\Large \textbf{
+Phosphatase PPP2R5C Couples Hepatic\\
+\vspace{0.5cm}
+Glucose and Lipid Homeostasis}
+}
+
+\vfill 
+{\large
+\begin{tabular}[l]{ll}
+Referees: & Prof. \hl{xxx}\\
+          & Dr. Aurelio Teleman\\
+\end{tabular}
+}
+\end{center}
+
+\end{titlepage}
+
+\blankpage
+
+\pagenumbering{roman}
+
+\onehalfspacing
+
+%\thispagestyle{empty}
+
+\vspace*{100pt}
+Ich versichere, dass ich diese PhD-Arbeit selbstständig verfasst und nur die angegebenen
+Quellen und Hilfsmittel verwendet habe.
+
+\vspace*{50pt}
+
+\sign{Yong-Sheng Cheng}\\
+Abgabedatum: \today
+
+\blankpage
+
+% Add a brief summary of your topic and contributions (Zusammenfassung) in German and in English:
+\chapter*{Zusammenfassung}
+\input{chapter/zusammenfassung.tex}
+
+\blankpage
+
+\chapter*{Abstract}
+\input{chapter/abstract.tex}
+
+\blankpage
+
+\chapter*{Acknowledgment}
+\input{chapter/acknowledgement.tex}
+
+\blankpage
+
+% MAIN PART:
+% Table of contents (Inhaltsverzeichnis)
+\tableofcontents
+\cleardoublepage
+%\pagenumbering{arabic} 
+
+% List of figures (Abbildungsverzeichnis):
+\listoffigures
+% List of tables (Tabellenverzeichnis):
+\listoftables
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Here, the actual content of your thesis begins
+% You can either put all the text here or use individual files to store the chapters of your thesis.
+% Below are templates for both alternatives.
+
+ 
+% Alternative: put content in separate files
+% Check the difference between including these files using \input{filename} and \include{filename} and see which one you like better
+%\chapter{Introduction}\label{intro}
+%\input{introduction}
+\clearpage
+\pagenumbering{arabic}
+
+
+\chapter{Background}\label{bg}
+\input{chapter/background}
+
+\chapter{Results}\label{result}
+\input{chapter/results}
+
+\chapter{Discussions}\label{discuss}
+\input{chapter/discussion}
+
+\chapter{Methodology}\label{Method}
+\input{chapter/Method}
+
+%\chapter{Materials}\label{material}
+%\input{materials}
+
+\appendix
+\chapter{Materials}\label{app:material}
+\input{chapter/materials}
+\newpage
+
+\chapter{Supplementary Table}\label{app:suppl}
+\input{chapter/suppl_tab}
+\newpage
+%\backmatter
+% References (Literaturverzeichnis):
+% a) Style (with abbreviations: use alpha):
+%\bibliographystyle{unsrt}
+% b) The File:
+%\bibliography{PhD_thesis.bib}
+\printbibliography % biblatex
+\newpage
+%\printindex
+\printglossaries
+\end{document}

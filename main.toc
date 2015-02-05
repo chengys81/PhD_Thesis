@@ -1,0 +1,271 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {USenglish}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline List of Figures}{ix}{chapter*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline List of Tables}{xii}{chapter*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Background}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Cancer metabolism}{1}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.1}Metabolism switch in quiescent vs proliferative cell}{2}{subsection.1.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1.2}Signaling in metabolism reprogramming}{3}{subsection.1.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Liver metabolism}{4}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}Liver glucose regulation}{5}{subsection.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.1.1}Liver glucose uptake}{5}{subsubsection.1.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.1.2}Glycolysis for energy and metabolite intermediate production}{6}{subsubsection.1.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.1.3}Glycogen storage and breakdown in the liver}{6}{subsubsection.1.2.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}Liver lipid metabolism}{7}{subsection.1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.2.1}Dietary lipid absorption}{7}{subsubsection.1.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.2.2}Lipoprotein particle for lipid transportation and redistribution}{7}{subsubsection.1.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.2.3}\textit {de novo} lipogenesis in the liver}{9}{subsubsection.1.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.2.4}\textbeta -oxidation of fatty acids}{9}{subsubsection.1.2.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}PP2A and its biology}{10}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.1}PP2A structure}{10}{subsection.1.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.1.1}PP2A catalytic subunit}{12}{subsubsection.1.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.1.2}PP2A scaffold subunit}{12}{subsubsection.1.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.1.3}PP2A regulatory subunit}{12}{subsubsection.1.3.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.2}PP2A in signaling}{13}{subsection.1.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.2.1}PP2A in metabolism}{13}{subsubsection.1.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.2.2}PP2A in Wnt signaling}{15}{subsubsection.1.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.2.3}PP2A in MAPK signaling}{15}{subsubsection.1.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.2.4}PP2A in apoptosis}{16}{subsubsection.1.3.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.2.5}PP2A in cell cycle control}{16}{subsubsection.1.3.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.3.2.6}PP2A in cell proliferation}{16}{subsubsection.1.3.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Aim of study--PPP2R5C}{17}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Results}{19}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Transcriptional change of PPP2R5C}{19}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}PPP2R5C splicing isoforms}{19}{subsection.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Transcriptional change of PPP2R5C in response to metabolic state}{19}{subsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.3}Transcriptional change of PPP2R5C in pathophysiology}{23}{subsection.2.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Antibody and virus preparation for PPP2R5C study}{25}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Selecting shRNA/miRNA for efficient knockdown of PPP2R5C}{25}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Generating Guinea Pig antibody for endogenous PPP2R5C detection}{26}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}PPP2R5C negatively regulates glycolysis and lipogenesis}{29}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}PPP2R5C KD in Hepa 1-6 increases glycolysis}{29}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}PPP2R5C KD promotes glucose uptake rate in Hepa 1-6}{32}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}PPP2R5C deficiency promotes \textit {de novo} lipogenesis}{35}{subsection.2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}PPP2R5C \textit {in vivo} knockdown promotes glucose uptake, triglyceride synthesis}{39}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}PPP2R5C knockdown has no impact on animal health}{40}{subsection.2.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.2}PPP2R5C KD promotes glucose uptake \textit {in vivo} with better insulin sensitivity}{41}{subsection.2.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.3}PPP2R5C KD promotes anabolic changes in liver}{46}{subsection.2.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}PPP2R5C negatively regulates VLDL secretion in the liver}{52}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}PPP2R5C's substrates in metabolism control}{57}{section.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.1}PPP2R5C's substrates include multiple metabolic regulators}{57}{subsection.2.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.2}AMPK is PPP2R5C's substrate involved in glucose uptake}{59}{subsection.2.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.3}HIF1\textalpha {} is PPP2R5C's substrate involved in glycolysis and lipogenesis}{60}{subsection.2.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.4}Microarray analysis of PPP2R5C KD in mouse liver}{63}{subsection.2.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.5}SREBP-1 is involved in lipogenesis phenotype}{63}{subsection.2.6.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.7}Human PPP2R5C in Type 2 Diabetes}{68}{section.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.1}PPP2R5C's misregulation in human liver}{68}{subsection.2.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7.2}PPP2R5C's misregulation in human adipose tissues}{72}{subsection.2.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Discussions}{74}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}PPP2R5C in liver metabolism}{74}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}PPP2R5C substrates}{77}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}PPP2R5C's metabolic control in cancer cells}{80}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}PPP2R5C in human metabolic diseases}{81}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Methodology}{83}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Molecular Biology}{83}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}DNA digestion by restriction enzymes}{83}{subsection.4.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}Polymerase chain reaction (PCR)}{83}{subsection.4.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.3}Agarose gel electrophoresis}{85}{subsection.4.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.4}Agarose gel purification}{85}{subsection.4.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.5}DNA ligation}{86}{subsection.4.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.6}Transformation of E. \textit {coli}}{86}{subsection.4.1.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.7}Bacteria cultivation and plasmid purification}{86}{subsection.4.1.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.8}Cloning and selection of shRNA or miRNA candidates}{87}{subsection.4.1.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.9}Cloning miR30-based shRNA for the inducible piggyBac shRNA system}{87}{subsection.4.1.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Gene expression analysis}{87}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Tissue pulverization}{87}{subsection.4.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}RNA isolation from tissue sample}{87}{subsection.4.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}RNA isolation from cell sample}{88}{subsection.4.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.4}cDNA synthesis}{88}{subsection.4.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.5}Quantitative PCR (qPCR) analysis}{89}{subsection.4.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.6}Microarray analysis of mouse tissue and cell sample}{89}{subsection.4.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Cell biology}{90}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1}Cell culture for Hepa 1-6, HEK293T, HEK293A, Hela Cells}{90}{subsection.4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2}Transfection assay}{90}{subsection.4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.3}Mouse primary hepatocyte cultivation}{90}{subsection.4.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.4}PP2A substrate trapping in Hepa 1-6}{91}{subsection.4.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.5}Luciferase assay}{91}{subsection.4.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.6}Inducible shRNA stable cell line generation}{92}{subsection.4.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.7}FACS analysis of 2NBDG uptake}{92}{subsection.4.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Virus production for mouse \textit {in vivo} knock-down}{93}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}shRNA packaging Adenovirus construction and production}{93}{subsection.4.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.1.1}Adenovirus with shRNA-NC{/\penalty \exhyphenpenalty }3 construction}{93}{subsubsection.4.4.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.1.2}Adenovirus harvesting}{93}{subsubsection.4.4.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.1.3}Adenovirus purification by CsCl gradient}{94}{subsubsection.4.4.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.1.4}Adenovirus titration}{94}{subsubsection.4.4.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2}miRNA packaging Adeno-Associated Virus construction and production}{95}{subsection.4.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.2.1}miRNA containing AAV construction}{95}{subsubsection.4.4.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.2.2}AAV crude lysate preparation}{96}{subsubsection.4.4.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.2.3}AAV iodixanol gradient purification}{96}{subsubsection.4.4.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.2.4}AAV titration}{97}{subsubsection.4.4.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}Metabolite measurement in celluar and tissue samples}{97}{section.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.1}Glucose consumption in Hepa 1-6 and primary hepatocytes}{97}{subsection.4.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.2}Lactate production}{98}{subsection.4.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.3}Free fatty acid measurement}{98}{subsection.4.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.4}Triglyceride measurement}{99}{subsection.4.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.5}Cholesterol measurement}{99}{subsection.4.5.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.6}Glycogen content determination}{99}{subsection.4.5.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.7}Ketone body measurement}{100}{subsection.4.5.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.8}ATP measurement}{100}{subsection.4.5.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.9}Intraperitoneal glucose tolerance test (IPGTT)}{100}{subsection.4.5.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.10}Serum insulin measurement}{100}{subsection.4.5.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.11}Serum lipoprotein particle analysis}{101}{subsection.4.5.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.12}Serum ALT measurement}{101}{subsection.4.5.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.13}Seahorse analysis of glycolysis in Hepa 1-6}{101}{subsection.4.5.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.6}Biochemical methods}{102}{section.4.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6.1}Protein expression in bacteria}{102}{subsection.4.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6.2}Antibody production and purification}{102}{subsection.4.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6.3}SDS-PAGE and western blot}{102}{subsection.4.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6.4}Phos-tag\textsuperscript {\textregistered } analysis of phosphorylated proteins}{103}{subsection.4.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6.5}Immunoprecipitation}{103}{subsection.4.6.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.7}Animal experiments}{103}{section.4.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.8}Data analysis and plotting}{104}{section.4.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Materials}{105}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Chemicals and kits}{105}{section.A.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}Antibodies}{109}{section.A.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}Instruments}{110}{section.A.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.4}Solutions and buffers}{111}{section.A.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.5}Primer list for quantitative RT-PCR}{112}{section.A.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.6}shRNA/miRNA target sequences}{113}{section.A.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.7}Software list}{114}{section.A.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}Supplementary Table}{115}{appendix.B}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.1}Enriched TFs in mouse cell lines upon PPP2R5C KD}{115}{section.B.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.2}Enriched TFs in mouse liver upon PPP2R5C KD}{116}{section.B.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.2.1}Enriched TFs in mouse liver during fasting}{116}{subsection.B.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.2.2}Enriched TFs in mouse liver during \textit {ad libitum} feeding}{117}{subsection.B.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Bibliography}{118}{appendix*.78}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Glossary}{140}{section*.79}
