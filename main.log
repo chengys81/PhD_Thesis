@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.11.19)  5 FEB 2015 16:33
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.11.19)  9 FEB 2015 21:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1301,42 +1301,43 @@ Package biblatex Info: Resetting trackers on input line 306.
 (./chapter/background.tex [1
 
 
-]
+] [2]
 File: figs/fig1-4 aerobic glycolysis.pdf Graphic file (type QTm)
  <use  "figs/fig1-4 aerobic glycolysis.pdf" >
-[2] [3] [4]
+[3] [4] [5]
 File: figs/fig1-2 liver glucose.png Graphic file (type QTm)
- <use  "figs/fig1-2 liver glucose.png" > [5] [6] [7]
+ <use  "figs/fig1-2 liver glucose.png" > [6] [7]
 File: figs/fig1-3 liver lipid.png Graphic file (type QTm)
 
-<use  "figs/fig1-3 liver lipid.png" > [8]
+<use  "figs/fig1-3 liver lipid.png" >
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 121.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 123.
 
-LaTeX Font Info:    Try loading font information for LGR+lmss on input line 125
+ [8]
+LaTeX Font Info:    Try loading font information for LGR+lmss on input line 127
 .
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/cbfonts-fd/lgrlmss.fd
 File: lgrlmss.fd 2013/09/01 v1.0 Greek Latin Modern Sans Serif
 ) [9]
-Underfull \hbox (badness 10000) in paragraph at lines 177--177
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
 [][][]|\T1/lmr/m/n/12 PP2A gene su-per-fam-ily
  []
 
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 199--199
+[10] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
 []|\T1/lmr/m/n/10 Total Pro-tein Ki-nase
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--200
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
 []|\T1/lmr/m/n/10 Total Pro-tein Phos-
  []
 
-[11] [12]
+[12] [13]
 File: figs/fig1-1 pp2a signaling.pdf Graphic file (type QTm)
- <use  "figs/fig1-1 pp2a signaling.pdf" > [13] [14] [15] [16] [17])
-[18]
+ <use  "figs/fig1-1 pp2a signaling.pdf" > [14] [15] [16] [17] [18])
+[19]
 Chapter 2.
 Package biblatex Info: Resetting trackers on input line 309.
 (./chapter/results.tex
@@ -1344,74 +1345,74 @@ File: figs/fig2-0 ppp2r5c gene structure.pdf Graphic file (type QTm)
  <use  "figs/fig2-0 ppp2r5c gene structure.pdf" >
 File: figs/fig2-1 liver ppp2r5c.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-1 liver ppp2r5c.pdf" > [19
+<use  "figs/fig2-1 liver ppp2r5c.pdf" > [20
 
 ]
 File: figs/fig2-2 adipose ppp2r5c.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-2 adipose ppp2r5c.pdf" > [20]
+<use  "figs/fig2-2 adipose ppp2r5c.pdf" > [21]
 File: figs/fig2-3 muscle ppp2r5c.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-3 muscle ppp2r5c.pdf" >
 Missing character: There is no – in font ec-lmr10!
 Missing character: There is no – in font ec-lmr10!
- [21]
+ [22]
 File: figs/fig2-4 liver 34sample ppp2r5c.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-4 liver 34sample ppp2r5c.pdf" > [22] [23] [24]
+<use  "figs/fig2-4 liver 34sample ppp2r5c.pdf" > [23] [24] [25]
 File: figs/fig2-5 shR miR kd luc.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-5 shR miR kd luc.pdf" > [25]
+<use  "figs/fig2-5 shR miR kd luc.pdf" > [26]
 File: figs/fig2-6a1.pdf Graphic file (type QTm)
  <use  "figs/fig2-6a1.pdf" >
 File: figs/fig2-6a2.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-6a2.pdf" >
 File: figs/fig2-6b miR kd v2.pdf Graphic file (type QTm)
- <use  "figs/fig2-6b miR kd v2.pdf" > [26] [27]
+ <use  "figs/fig2-6b miR kd v2.pdf" > [27] [28]
 File: figs/fig2-7 v3 purify.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-7 v3 purify.pdf" >
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
 [][][]|\T1/lmr/m/n/10 PPP2R5C Vari-ant 3 (V3) was
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
 \T1/lmr/m/n/10 ex-pres-sion/purification fa-cil-ity) to
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 119--119
+Underfull \hbox (badness 2111) in paragraph at lines 121--121
 \T1/lmr/m/n/10 be ex-pressed in E. \T1/lmr/m/it/10 coli. \T1/lmr/m/n/10 BL21-
  []
 
 
-Underfull \hbox (badness 6110) in paragraph at lines 119--119
+Underfull \hbox (badness 6110) in paragraph at lines 121--121
 \T1/lmr/m/n/10 propyl \LGR/lmr/m/n/10 b\T1/lmr/m/n/10 -D-1-thiogalactopyranosid
 e)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
 \T1/lmr/m/n/10 be-fore in-duc-tion (U) and af-ter
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 119--119
+Underfull \hbox (badness 1377) in paragraph at lines 121--121
 \T1/lmr/m/n/10 the in-duc-tion ef-fi-ciency. Bac-te-ria
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 119--119
+Underfull \hbox (badness 1057) in paragraph at lines 121--121
 \T1/lmr/m/n/10 pH 7.5) with 1 mg/ml Lysozyme,
  []
 
 File: figs/fig2-8 gp anti-v3 kd OE.pdf Graphic file (type QTm)
-<use  "figs/fig2-8 gp anti-v3 kd OE.pdf" > [28]
+<use  "figs/fig2-8 gp anti-v3 kd OE.pdf" > [29]
 File: figs/fig2-9 hepa ad kd.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-9 hepa ad kd.pdf" > [29]
+<use  "figs/fig2-9 hepa ad kd.pdf" > [30]
 File: figs/fig2-10a glucose kd.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-10a glucose kd.pdf" >
@@ -1419,27 +1420,27 @@ File: figs/fig2-10b lactate kd.pdf Graphic file (type QTm)
  <use  "figs/fig2-10b lactate kd.pdf" >
 File: figs/fig2-11 seahorse.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-11 seahorse.pdf" > [30] [31]
+<use  "figs/fig2-11 seahorse.pdf" > [31] [32]
 File: figs/fig2-12 facs filter new.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-12 facs filter new.pdf" >
 File: figs/fig2-13 density 2NBDG.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-13 density 2NBDG.pdf" >
-Underfull \hbox (badness 2285) in paragraph at lines 188--188
+Underfull \hbox (badness 2285) in paragraph at lines 190--190
 \T1/lmr/m/n/10 2NBDG in-cu-ba-tion and the one
  []
 
-[32]
+[33]
 File: figs/fig2-14 facs glucose uptake.pdf Graphic file (type QTm)
- <use  "figs/fig2-14 facs glucose uptake.pdf" > [33]
+ <use  "figs/fig2-14 facs glucose uptake.pdf" > [34]
 File: figs/fig2-15 1st hepa glucose uptake facs.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-15 1st hepa glucose uptake facs.pdf" >
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <14.4> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 212.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 214.
 
- [34]
+ [35]
 File: figs/fig2-16 1st hepa tag.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-16 1st hepa tag.pdf" >
@@ -1448,7 +1449,7 @@ File: figs/fig2-17a 1st hepa glycogen.pdf Graphic file (type QTm)
 <use  "figs/fig2-17a 1st hepa glycogen.pdf" >
 File: figs/fig2-17b 1st hepa atp.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-17b 1st hepa atp.pdf" > [35]
+<use  "figs/fig2-17b 1st hepa atp.pdf" > [36]
 File: figs/fig2-18 hepa tag rapamycin.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-18 hepa tag rapamycin.pdf" >
@@ -1457,26 +1458,26 @@ File: figs/fig2-19a hepa ffa uptake.pdf Graphic file (type QTm)
 <use  "figs/fig2-19a hepa ffa uptake.pdf" >
 File: figs/fig2-19b hepa ffa intracellular.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-19b hepa ffa intracellular.pdf" > [36] [37]
+<use  "figs/fig2-19b hepa ffa intracellular.pdf" > [37] [38]
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <17.28> not available
-(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 273.
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 275.
 
- [38]
+ [39]
 File: figs/fig2-20a pilot qPCR.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-20a pilot qPCR.pdf" >
 File: figs/fig2-20b kd in vivo protein.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-20b kd in vivo protein.pdf" > [39]
+<use  "figs/fig2-20b kd in vivo protein.pdf" > [40]
 File: figs/fig2-21 serum ALT.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-21 serum ALT.pdf" > [40]
+<use  "figs/fig2-21 serum ALT.pdf" > [41]
 File: figs/fig2-22 body weight and echoMRI fat.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-22 body weight and echoMRI fat.pdf" >
 File: figs/fig2-25 abd wat weight.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-25 abd wat weight.pdf" > [41]
+<use  "figs/fig2-25 abd wat weight.pdf" > [42]
 File: figs/fig2-26 blood glucose.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-26 blood glucose.pdf" >
@@ -1492,13 +1493,16 @@ File: figs/fig2-44 AUC for gtt.pdf Graphic file (type QTm)
  <use  "figs/fig2-44 AUC for gtt.pdf" >
 File: figs/fig2-45 serum ins for gtt.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-45 serum ins for gtt.pdf" > [42] [43] [44] [45]
-File: figs/fig2-27 liver weight.pdf Graphic file (type QTm)
+<use  "figs/fig2-45 serum ins for gtt.pdf" > [43] [44] [45]
 
-<use  "figs/fig2-27 liver weight.pdf" >
+LaTeX Warning: Text page 46 contains only floats.
+
+[46]
+File: figs/fig2-27 liver weight.pdf Graphic file (type QTm)
+ <use  "figs/fig2-27 liver weight.pdf" >
 File: figs/fig2-30 liver glycogen.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-30 liver glycogen.pdf" > [46]
+<use  "figs/fig2-30 liver glycogen.pdf" > [47]
 File: figs/fig2-31 liver tag.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-31 liver tag.pdf" >
@@ -1507,21 +1511,21 @@ File: figs/fig2-33 liver NEFA.pdf Graphic file (type QTm)
 File: figs/fig2-57 liver pilot tag.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-57 liver pilot tag.pdf" >
-Underfull \hbox (badness 4699) in paragraph at lines 429--429
+Underfull \hbox (badness 4699) in paragraph at lines 431--431
 [][][]|\T1/lmr/m/n/10 Liver triglyc-eride in-creases af-ter
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 429--429
+Underfull \hbox (badness 1810) in paragraph at lines 431--431
 \T1/lmr/m/n/10 PPP2R5C knock-down in ran-dom
  []
 
 
-Underfull \hbox (badness 4024) in paragraph at lines 429--429
+Underfull \hbox (badness 4024) in paragraph at lines 431--431
 \T1/lmr/m/n/10 mice were in-jected with adeno-
  []
 
-[47] [48]
+[48] [49]
 File: figs/fig2-37 serum TKB.pdf Graphic file (type QTm)
  <use  "figs/fig2-37 serum TKB.pdf" >
 File: figs/fig2-38 serum HB.pdf Graphic file (type QTm)
@@ -1529,12 +1533,12 @@ File: figs/fig2-38 serum HB.pdf Graphic file (type QTm)
 <use  "figs/fig2-38 serum HB.pdf" >
 File: figs/fig2-39 serum KB ratio.pdf Graphic file (type QTm)
  <use  "figs/fig2-39 serum KB ratio.pdf" >
-[49] [50]
+[50] [51]
 File: figs/fig2-32 serum tag.pdf Graphic file (type QTm)
- <use  "figs/fig2-32 serum tag.pdf" > [51]
+ <use  "figs/fig2-32 serum tag.pdf" > [52]
 File: figs/fig2-34 serum NEFA.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-34 serum NEFA.pdf" > [52]
+<use  "figs/fig2-34 serum NEFA.pdf" > [53]
 File: figs/fig2-42 fplc_profile.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-42 fplc_profile.pdf" >
@@ -1542,7 +1546,7 @@ File: figs/fig2-40 fplc_tag.pdf Graphic file (type QTm)
  <use  "figs/fig2-40 fplc_tag.pdf" >
 File: figs/fig2-58 vldl_peak.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-58 vldl_peak.pdf" > [53] [54]
+<use  "figs/fig2-58 vldl_peak.pdf" > [54] [55]
 File: figs/fig2-41 fplc_chol.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-41 fplc_chol.pdf" >
@@ -1550,89 +1554,89 @@ File: figs/fig2-35 liver chol.pdf Graphic file (type QTm)
  <use  "figs/fig2-35 liver chol.pdf" >
 File: figs/fig2-36 serum chol.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-36 serum chol.pdf" > [55] [56] [57]
+<use  "figs/fig2-36 serum chol.pdf" > [56] [57] [58]
 File: figs/fig2-46 bioID scheme.png Graphic file (type QTm)
 
-<use  "figs/fig2-46 bioID scheme.png" > [58]
+<use  "figs/fig2-46 bioID scheme.png" > [59]
 File: figs/fig2-47 bioid target1.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-47 bioid target1.pdf" >
 File: figs/fig2-48 bioid target2.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-48 bioid target2.pdf" > [59]
+<use  "figs/fig2-48 bioid target2.pdf" > [60]
 File: figs/fig2-50a ampk increase AV shR3.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-50a ampk increase AV shR3.pdf" >
 File: figs/fig2-50b ampk increase.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-50b ampk increase.pdf" > [60]
+<use  "figs/fig2-50b ampk increase.pdf" > [61]
 File: figs/fig2-51 hif phospho.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-51 hif phospho.pdf" >
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 597.
- [61]
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 599.
+ [62]
 File: figs/fig2-53 hif target 1st hepa.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-53 hif target 1st hepa.pdf" > [62] [63]
+<use  "figs/fig2-53 hif target 1st hepa.pdf" > [63] [64]
 File: figs/fig2-52 aav liver srebp insulin signal.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-52 aav liver srebp insulin signal.pdf" > [64]
+<use  "figs/fig2-52 aav liver srebp insulin signal.pdf" > [65]
 File: figs/fig2-54 srebp 1st hepa.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-54 srebp 1st hepa.pdf" > [65]
+<use  "figs/fig2-54 srebp 1st hepa.pdf" > [66]
 File: figs/fig2-55 liver srebp.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-55 liver srebp.pdf" > [66] [67]
+<use  "figs/fig2-55 liver srebp.pdf" > [67] [68]
 File: figs/fig2-60 human ppp2r5c vs t2d GIR.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-60 human ppp2r5c vs t2d GIR.pdf" > [68]
+<use  "figs/fig2-60 human ppp2r5c vs t2d GIR.pdf" > [69]
 File: figs/fig2-61 human ppp2r5c vs ob group.pdf Graphic file (type QTm)
 
 <use  "figs/fig2-61 human ppp2r5c vs ob group.pdf" >
 File: figs/fig2-62 corr change.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-62 corr change.pdf" > [69] [70]
+<use  "figs/fig2-62 corr change.pdf" > [70] [71]
 File: figs/fig2-63 human ppp2r5c vs fpg IL6.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-63 human ppp2r5c vs fpg IL6.pdf" > [71]
+<use  "figs/fig2-63 human ppp2r5c vs fpg IL6.pdf" > [72]
 File: figs/fig2-64 human adipose ppp2r5c.pdf Graphic file (type QTm)
 
-<use  "figs/fig2-64 human adipose ppp2r5c.pdf" >) [72] [73]
+<use  "figs/fig2-64 human adipose ppp2r5c.pdf" >) [73] [74]
 Chapter 3.
 Package biblatex Info: Resetting trackers on input line 312.
-(./chapter/discussion.tex [74
+(./chapter/discussion.tex [75
 
-] [75]
+] [76]
 File: figs/fig2-56 whole organismal model.png Graphic file (type QTm)
 
-<use  "figs/fig2-56 whole organismal model.png" > [76] [77]
+<use  "figs/fig2-56 whole organismal model.png" > [77] [78]
 File: figs/fig2-59 signaling model.png Graphic file (type QTm)
 
-<use  "figs/fig2-59 signaling model.png" > [78] [79] [80] [81]) [82]
+<use  "figs/fig2-59 signaling model.png" > [79] [80] [81] [82]) [83]
 Chapter 4.
 Package biblatex Info: Resetting trackers on input line 315.
-(./chapter/Method.tex [83
+(./chapter/Method.tex [84
 
-] [84] [85] [86]
+] [85] [86] [87]
 Overfull \hbox (4.30446pt too wide) in paragraph at lines 155--156
 \T1/lmr/m/n/12 ~50 mg of frozen tis-sue were weighted and trans-ferred into a 2
  ml RNase/DNase/Protease-
  []
 
-[87] [88] [89] [90] [91]
+[88] [89] [90] [91] [92]
 Missing character: There is no ’ in font ec-lmr12!
 Missing character: There is no ’ in font ec-lmr12!
 Missing character: There is no ’ in font ec-lmr12!
- [92] [93] [94]
+ [93] [94] [95]
 Missing character: There is no ’ in font ec-lmr12!
- [95] [96] [97] [98] [99] [100]
+ [96] [97] [98] [99] [100] [101]
 Overfull \hbox (0.83925pt too wide) in paragraph at lines 344--345
 \T1/lmr/m/n/12 Serum ALT (Ala-nine Amino-trans-ferase) ac-tiv-ity was mea-sured
  by the In-fin-ity ALT/GPT
  []
 
-[101] [102]
+[102] [103]
 LaTeX Font Info:    Try loading font information for OMS+lmss on input line 368
 .
 LaTeX Font Info:    No file OMSlmss.fd. on input line 368.
@@ -1641,7 +1645,7 @@ LaTeX Font Info:    No file OMSlmss.fd. on input line 368.
 LaTeX Font Warning: Font shape `OMS/lmss/bx/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead on input line 368.
 
-[103]) [104]
+[104]) [105]
 Appendix A.
 Package biblatex Info: Resetting trackers on input line 322.
 (./chapter/materials.tex
@@ -1689,7 +1693,7 @@ Underfull \hbox (badness 6625) in paragraph at lines 75--75
 []|\T1/lmr/m/n/12 Nuclease Pro-tease Free
  []
 
-[105
+[106
 
 ]
 Underfull \hbox (badness 1210) in paragraph at lines 86--86
@@ -1711,7 +1715,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--94
 []|\T1/lmr/m/n/12 Glucose (HK) as-say
  []
 
-[106]
+[107]
 Underfull \hbox (badness 10000) in paragraph at lines 98--98
 []|\T1/lmr/m/n/12 Protease in-hibitor mix
  []
@@ -1736,7 +1740,7 @@ Underfull \hbox (badness 2359) in paragraph at lines 115--115
 []|\T1/lmr/m/n/12 BLOCK-iT$[]$ U6 RNAi
  []
 
-[107]
+[108]
 Underfull \hbox (badness 10000) in paragraph at lines 118--119
 []|\T1/lmr/m/n/12 415-73301&411-
  []
@@ -1746,7 +1750,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--120
 []|\T1/lmr/m/n/12 999-34691&991-
  []
 
-[108] [109]
+[109] [110]
 Overfull \hbox (1.94666pt too wide) in alignment at lines 184--189
  [] [] 
  []
@@ -1777,10 +1781,10 @@ Overfull \hbox (1.94666pt too wide) in alignment at lines 216--229
  [] [] 
  []
 
-[110]
+[111]
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 249.
- [111]
+ [112]
 Overfull \hbox (30.18616pt too wide) in alignment at lines 268--273
  [] [] [] 
  []
@@ -1845,44 +1849,46 @@ Overfull \hbox (30.18616pt too wide) in alignment at lines 301--314
  [] [] [] 
  []
 
-[112] [113]) [114]
+[113] [114]) [115]
 Appendix B.
 Package biblatex Info: Resetting trackers on input line 326.
-(./chapter/suppl_tab.tex [115
+(./chapter/suppl_tab.tex [116
 
-] [116]) [117]
+] [117]) [118]
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 335.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [118
+) [119
 
-] [119]
+]
+Missing character: There is no γ in font ec-lmr12!
+Missing character: There is no γ in font ec-lmr12!
+ [120]
+[121]
 Missing character: There is no – in font ec-lmr12!
-
-[120]
+ [122]
 Missing character: There is no – in font ec-lmr12!
 Missing character: There is no – in font ec-lmr12!
- [121]
+ [123]
 Missing character: There is no α in font ec-lmr12!
 Missing character: There is no β in font ec-lmr12!
 Missing character: There is no α in font ec-lmr12!
- [122]
 Missing character: There is no α in font ec-lmr12!
 Missing character: There is no α in font ec-lmr12!
- [123]
+ [124] [125]
 Missing character: There is no ′ in font ec-lmr12!
- [124] [125] [126]
+ [126] [127]
 Missing character: There is no γ in font ec-lmr12!
 Missing character: There is no γ in font ec-lmr12!
 Missing character: There is no γ in font ec-lmr12!
-Missing character: There is no γ in font ec-lmr12!
-Missing character: There is no κ in font ec-lmr12!
-Missing character: There is no κ in font ec-lmr12!
- [127]
-Missing character: There is no ’ in font ec-lmr12!
  [128]
+Missing character: There is no γ in font ec-lmr12!
+Missing character: There is no κ in font ec-lmr12!
+Missing character: There is no κ in font ec-lmr12!
+ [129]
+Missing character: There is no ’ in font ec-lmr12!
 Missing character: There is no α in font ec-lmr12!
 
 Overfull \hbox (0.55594pt too wide) in paragraph at lines 336--336
@@ -1890,28 +1896,25 @@ Overfull \hbox (0.55594pt too wide) in paragraph at lines 336--336
 t-ner, Stephen J.
  []
 
-[129] [130]
+[130] [131]
 Missing character: There is no “ in font ec-lmr12!
 Missing character: There is no ” in font ec-lmr12!
- [131]
-Missing character: There is no α in font ec-lmr12!
-Missing character: There is no α in font ec-lmr12!
-Missing character: There is no α in font ec-lmr12!
  [132]
+Missing character: There is no α in font ec-lmr12!
+ [133]
+Missing character: There is no α in font ec-lmr12!
+Missing character: There is no α in font ec-lmr12!
 Missing character: There is no ’ in font ec-lmr12!
 Missing character: There is no β in font ec-lmr12!
- [133] [134] [135]
+ [134] [135] [136] [137]
 Missing character: There is no α in font ec-lmr12!
- [136]
-Missing character: There is no γ in font ec-lmr12!
-Missing character: There is no γ in font ec-lmr12!
- [137] [138] [139] (./main.gls2
-[140
+ [138] [139] [140] (./main.gls2
+[141
 
 
-] [141] [142]) (./main.acr)
+] [142] [143]) (./main.acr)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 339.
- [143]
+ [144]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 339.
  (./main.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 339.
@@ -1928,10 +1931,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 339.
 Here is how much of TeX's memory you used:
  28001 strings out of 493724
  466815 string characters out of 6145898
- 1051826 words of memory out of 5000000
+ 1051884 words of memory out of 5000000
  30767 multiletter control sequences out of 15000+600000
  140942 words of font info for 94 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  57i,19n,85p,2907b,3054s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (165 pages).
+Output written on main.pdf (166 pages).
